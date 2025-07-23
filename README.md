@@ -26,6 +26,7 @@ python manage.py runserver
 - To Access admin-dashbaord (USER: "admineUser" Password: "pass4321")
 
 Code Structure:
+```
 url-shortener/
 │
 ├── shortener/             
@@ -44,3 +45,4 @@ url-shortener/
 │
 ├── db.sqlite3
 └──  manage.py
+```
